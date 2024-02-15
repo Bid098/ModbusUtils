@@ -1,0 +1,15 @@
+C:\Users\marco.bi.MOSAICOGROUP\OneDrive\Coding\ModbusUtils\src\message-interpreter-console\bin\Debug\net8.0\message-interpreter-console.exe
+C:\Users\marco.bi.MOSAICOGROUP\OneDrive\Coding\ModbusUtils\src\message-interpreter-console\bin\Debug\net8.0\message-interpreter-console.deps.json
+C:\Users\marco.bi.MOSAICOGROUP\OneDrive\Coding\ModbusUtils\src\message-interpreter-console\bin\Debug\net8.0\message-interpreter-console.runtimeconfig.json
+C:\Users\marco.bi.MOSAICOGROUP\OneDrive\Coding\ModbusUtils\src\message-interpreter-console\bin\Debug\net8.0\message-interpreter-console.dll
+C:\Users\marco.bi.MOSAICOGROUP\OneDrive\Coding\ModbusUtils\src\message-interpreter-console\bin\Debug\net8.0\message-interpreter-console.pdb
+C:\Users\marco.bi.MOSAICOGROUP\OneDrive\Coding\ModbusUtils\src\message-interpreter-console\obj\Debug\net8.0\message-interpreter-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco.bi.MOSAICOGROUP\OneDrive\Coding\ModbusUtils\src\message-interpreter-console\obj\Debug\net8.0\message-interpreter-console.AssemblyInfoInputs.cache
+C:\Users\marco.bi.MOSAICOGROUP\OneDrive\Coding\ModbusUtils\src\message-interpreter-console\obj\Debug\net8.0\message-interpreter-console.AssemblyInfo.cs
+C:\Users\marco.bi.MOSAICOGROUP\OneDrive\Coding\ModbusUtils\src\message-interpreter-console\obj\Debug\net8.0\message-interpreter-console.csproj.CoreCompileInputs.cache
+C:\Users\marco.bi.MOSAICOGROUP\OneDrive\Coding\ModbusUtils\src\message-interpreter-console\obj\Debug\net8.0\message-interpreter-console.sourcelink.json
+C:\Users\marco.bi.MOSAICOGROUP\OneDrive\Coding\ModbusUtils\src\message-interpreter-console\obj\Debug\net8.0\message-interpreter-console.dll
+C:\Users\marco.bi.MOSAICOGROUP\OneDrive\Coding\ModbusUtils\src\message-interpreter-console\obj\Debug\net8.0\refint\message-interpreter-console.dll
+C:\Users\marco.bi.MOSAICOGROUP\OneDrive\Coding\ModbusUtils\src\message-interpreter-console\obj\Debug\net8.0\message-interpreter-console.pdb
+C:\Users\marco.bi.MOSAICOGROUP\OneDrive\Coding\ModbusUtils\src\message-interpreter-console\obj\Debug\net8.0\message-interpreter-console.genruntimeconfig.cache
+C:\Users\marco.bi.MOSAICOGROUP\OneDrive\Coding\ModbusUtils\src\message-interpreter-console\obj\Debug\net8.0\ref\message-interpreter-console.dll
