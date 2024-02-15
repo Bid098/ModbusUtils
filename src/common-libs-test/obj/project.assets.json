@@ -385,24 +385,11 @@
       "common-libs/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "message-interpreter-console": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/common-libs.dll": {}
         },
         "runtime": {
           "bin/placeholder/common-libs.dll": {}
-        }
-      },
-      "message-interpreter-console/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/message-interpreter-console.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/message-interpreter-console.dll": {}
         }
       }
     }
@@ -1002,11 +989,6 @@
       "type": "project",
       "path": "../common-libs/common-libs.csproj",
       "msbuildProject": "../common-libs/common-libs.csproj"
-    },
-    "message-interpreter-console/1.0.0": {
-      "type": "project",
-      "path": "../message-interpreter-console/message-interpreter-console.csproj",
-      "msbuildProject": "../message-interpreter-console/message-interpreter-console.csproj"
     }
   },
   "projectFileDependencyGroups": {

@@ -7,8 +7,4 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
-    <ItemGroup>
-      <ProjectReference Include="..\message-interpreter-console\message-interpreter-console.csproj" />
-    </ItemGroup>
-
 </Project>

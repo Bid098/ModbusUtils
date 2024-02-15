@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
-      "message-interpreter-console/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/message-interpreter-console.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/message-interpreter-console.dll": {}
-        }
-      }
-    }
+    "net8.0": {}
   },
-  "libraries": {
-    "message-interpreter-console/1.0.0": {
-      "type": "project",
-      "path": "../message-interpreter-console/message-interpreter-console.csproj",
-      "msbuildProject": "../message-interpreter-console/message-interpreter-console.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": [
-      "message-interpreter-console >= 1.0.0"
-    ]
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\marco.bi.MOSAICOGROUP\\.nuget\\packages\\": {},
@@ -60,11 +41,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "C:\\Users\\marco.bi.MOSAICOGROUP\\OneDrive\\mygit\\ModbusUtils\\src\\message-interpreter-console\\message-interpreter-console.csproj": {
-              "projectPath": "C:\\Users\\marco.bi.MOSAICOGROUP\\OneDrive\\mygit\\ModbusUtils\\src\\message-interpreter-console\\message-interpreter-console.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
